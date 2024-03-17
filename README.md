@@ -1,6 +1,6 @@
 <h4 align="center">
  
-![Hello](https://imgur.com/a/26m6Fzy.png)
+![Hello](https://imgur.com/a/26m6Fzy)
 
 <hr>
   
