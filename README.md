@@ -13,7 +13,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:eibrunoruan@gmail.com)](mailto:eibrunoruan@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/invite/eibrunoruan)](https://discord.com/invite/eibrunoruan)
 
-## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/eibrunoruan/count.svg" />
- </p>
