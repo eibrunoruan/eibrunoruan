@@ -1,4 +1,4 @@
-## cout << "Hello World! - Prazer eu sou a Bruno Ruan, estudante e desenvolver de software";
+## cout << "Falaa Devs! Eu sou a Bruno Ruan, estudante e desenvolver de software";
 
 <div style="display: inline_block">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
