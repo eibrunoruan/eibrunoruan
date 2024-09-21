@@ -1,4 +1,4 @@
-## <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=cout+%3C%3C+%22Falaa+Devs!+Eu+sou+o+Bruno+Ruan,+estudante+e+desenvolvedor+de+software%22;" />
+## <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=cout+%3C%3C+%22Falaa+Devs!+Eu+sou+o+Bruno+Ruan+estudante+e+desenvolvedor+de+software%22;" />
 
 <div style="display: inline_block">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
