@@ -1,4 +1,4 @@
-## <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=cout+%3C%3C+%22Falaa+Devs!+Eu+sou+o+Bruno+Ruan+estudante+e+desenvolvedor+de+software%22;" />
+## <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=cout+%3C%3C+%22Falaa+Devs!+Prazer+Bruno%22;" />
 Você não precisa saber tudo, mas precisa entender o suficiente para resolver problemas.
 
 <div style="display: inline_block">
